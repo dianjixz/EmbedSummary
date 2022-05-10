@@ -1164,6 +1164,8 @@ C/C++调试器列表
 
 [Valgrind](https://link.zhihu.com/?target=http%3A//valgrind.org/)：内存调试，内存泄露检测，性能分析工具。
 
+[gdbgui](https://www.gdbgui.com/): 一个 pyhton 写的调用 gdb 的可视化gui调试器.
+
 ### 38、 集成开发环境（IDE）
 
 C/C++集成开发环境列表
