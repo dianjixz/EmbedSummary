@@ -956,6 +956,10 @@ Boa是一种非常小巧的Web服务器，其可执行代码只有大约60KB左�
 
 [GoAhead](https://github.com/mvvelzen33/goahead) : GoAhead Webserver是为嵌入式实时操作系统（RTOS）量身定制的Web服务器。GoAhead Webserver是跨平台的服务器软件，可以稳定地运行在Windows，Linux和Mac OS X操作系统之上。GoAhead Webserver是开放源代码的，这意味着你可以随意修改Web服务器的功能。这款WEB服务器非常小巧，它的WIN CE版本编译后的大小还不到60k，它的输出通常也是面向一些小屏幕设备。在性能方面，使用一颗24MH z的68040处理器，它的响应速度为20次/秒，使用266MHz的Pentium处理器可以达到50次/秒的响应速度。
 
+[httpserver.h](https://github.com/jeremycw/httpserver.h) : httpserver 这个库，只有一个 .h 头文件.
+
+[libuhttpd](https://github.com/zhaojh329/libuhttpd) : 一个非常灵活的,轻量的,高性能的HTTP服务器C库，基于libev和http-parser，主要用于嵌入式Linux。
+
 ### 24、 物理学
 
 动力学仿真引擎
