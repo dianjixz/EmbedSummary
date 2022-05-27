@@ -932,6 +932,30 @@ C++通用框架和库
 
 [ZeroMQ](https://link.zhihu.com/?target=http%3A//zeromq.org/) ：高速，模块化的异步通信库
 
+[Libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/) : libmicrohttpd 是 GUN 下开源的一个小型的 HTTP 库，能够方便的嵌入到系统中。支持 HTTP 1.1 可以同时侦听多个端口，具有 select, poll, pthread, thread poo 等多种模式，库平台支持 GNU/Linux, FreeBSD, OpenBSD, NetBSD, Android, Darwin (macOS), W32, OpenIndiana/Solaris, z/OS 等。
+
+[httplib](https://github.com/yhirose/cpp-httplib) : httplib库是一个以C++11特性编写的库，所以编译器也需要能支持C++11的。库在使用时只需包含一个头文件即可，非常方便。
+
+[Lighttpd](https://github.com/lighttpd/lighttpd1.4) : LibHttpd是一个开源轻量级嵌入式Web server，是提供一个专门针对高性能网站，安全、快速、兼容性好并且灵活的web server环境。具有非常低的内存开销，cpu占用率低，效能好，以及丰富的模块等特点。
+lighttpd 适合静态资源类的服务，比如图片、资源文件、静态HTML等等的应用，性能应该比较好，同时也适合简单的CGI应用的场合，lighttpd可以很方便的通过fastcgi支持php。
+
+[Shttpd](https://github.com/solidyang/shttpd-1.42) : Shttpd，开源。它是另一个轻量级的web server，具有比thttpd更丰富的功能特性，支持CGI, SSL, cookie, MD5认证, 还能嵌入(embedded)到现有的软件里。最有意思的是不需要配置文件！由于shttpd可以轻松嵌入其他程序里，因此shttpd是较为理想的web server开发原形，开发人员可以基于shttpd开发出自己的webserver，官方网站上称shttpd如果使用uclibc/dielibc(libc的简化子集)则开销将非常非常低。
+
+[mongoose](https://github.com/cesanta/mongoose) : Mongoose Web Server是一款易于使用的web服务器，它可以嵌入到其它应用程序中，为其提供Web接口。Mongoose它的前身是shttpd，它完全开源和自由使用。Mongoose web服务器的执行是自满足的，只需要使用mongoose.c和mongoose.h两个文件，它不依赖于任何其他服务。跨平台，支持 Windows、OS X 和 Linux，支持 CGI, SSL, SSI, Digest (MD5) 认证，WebSocket 和 WebDAV，支持断点续传和 URL 重写，基于 IP 的 ACL，支持 Windows 服务，支持 GET, POST, HEAD, PUT, DELETE 方法。
+
+[Thttpd](https://github.com/jpouellet/thttpd) : Thttpd是一款比较精巧的开源Web服务器。它的初衷是提供一款简单、小巧、易移植、快速和安全的HTTP服务器。对于并发请求不使用fork()来派生子进程处理，而是采用多路复用(Multiplex)技术来实现。
+Thttpd至少和主流的web server一样快，在高负载下更快，因为其资源占用小的缘故。
+Thttpd还有一个较为引人注目的特点：基于URL的文件流量限制，这对于下载的流量控制而言是非常方便的。象Apache就必须使用插件实现，效率较thttpd低。Thttp是开源的。是用C语言编写的，使用的很多。
+
+[Boa](https://github.com/gpg/boa) : Boa服务器是一个小巧高效的web服务器，是一个运行于unix或linux下的，支持CGI的、适合于嵌入式系统的单任务的http服务器，源代码开放、性能高。
+Boa是一种非常小巧的Web服务器，其可执行代码只有大约60KB左右。作为一种单任务Web服务器，Boa只能依次完成用户的请求，而不会fork出新的进程来处理并发连接请求。但Boa支持CGI，能够为CGI程序fork出一个进程来执行。Boa的设计目标是速度和安全。
+
+[Mini_httpd](https://github.com/peter-leonov/mini_httpd) : Mini_httpd是一个小型的HTTP服务器。开源，它的性能不强，但是它非常适合于中小访问量的站点。Mini_httpd和thttpd都是ACME Labs 开发的软件，功能没有thttpd强。
+
+[Appweb](https://github.com/ni-webtech/appweb-4) : Appweb 是下一代嵌入式web服务器，它天生是为嵌入式开发的，它的最初设计理念就是安全。Appweb是一个快速、低内存使用量、标准库、方便的服务器。与其它嵌入式web服务器相比，appweb最大特点就是功能多和高度的安全保障。Appweb简单、方便、开源。
+
+[GoAhead](https://github.com/mvvelzen33/goahead) : GoAhead Webserver是为嵌入式实时操作系统（RTOS）量身定制的Web服务器。GoAhead Webserver是跨平台的服务器软件，可以稳定地运行在Windows，Linux和Mac OS X操作系统之上。GoAhead Webserver是开放源代码的，这意味着你可以随意修改Web服务器的功能。这款WEB服务器非常小巧，它的WIN CE版本编译后的大小还不到60k，它的输出通常也是面向一些小屏幕设备。在性能方面，使用一颗24MH z的68040处理器，它的响应速度为20次/秒，使用266MHz的Pentium处理器可以达到50次/秒的响应速度。
+
 ### 24、 物理学
 
 动力学仿真引擎
