@@ -24,9 +24,9 @@
 
 [DJYOS](http://www.djyos.com/)： 都江堰操作系统。
 
- [klite](https://gitee.com/kerndev/klite) ： 简洁易用的嵌入式操作系统内核。 
+[klite](https://gitee.com/kerndev/klite) ： 简洁易用的嵌入式操作系统内核。 
 
- [lmosem](https://gitee.com/lmnos/lmosem) ： 一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 
+[lmosem](https://gitee.com/lmnos/lmosem) ： 一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 
 
 [freenos](http://www.freenos.org/)：FreeNOS微内核操作系统。
 
@@ -86,7 +86,7 @@
 
 [Embedded Unit]( https://sourceforge.net/projects/embunit )： 是个纯标准c构建的单元测试框架。
 
-[CuTest ]( https://sourceforge.net/projects/cutest/ )：一款微小的C语言单元测试框， 全部代码加起来不到一千行。
+[CuTest]( https://sourceforge.net/projects/cutest/ )：一款微小的C语言单元测试框， 全部代码加起来不到一千行。
 
 [cmockery](https://github.com/google/cmockery)： 谷歌C单元测试框架。
 
@@ -98,7 +98,7 @@
 
 [LWIP](http://savannah.nongnu.org/projects/lwip/)： 一个小型开源的TCP/IP协议栈 。
 
-[ SQLite ](https://www.sqlite.org/download.html)：一个开源的嵌入式关系数据库。
+[SQLite](https://www.sqlite.org/download.html)：一个开源的嵌入式关系数据库。
 
 [OpenBLT](https://sourceforge.net/projects/openblt/files/)：一种开源引导加载程序。
 
@@ -1286,7 +1286,7 @@ C/C++集成开发环境列表
 
 [dtrx](https://github.com/dtrx-py/dtrx/) 有了这个工具你基本再也不用记住如何在linux上面解压各种后缀的文件了，什么tar.gz,tgz,xz,bz2,zip.rar等通通搞定，这是一个python工具.
 
-**[autojump](https://link.zhihu.com/?target=https%3A//github.com/wting/autojump)**   : 记忆进过的文件夹，下次可用 j + 文件夹名 直接跳进， 很方便.软件安装完后输入下面命令生效终端 (echo ""# autojump\nsource /usr/share/autojump/autojump.bash" >> ~/.bashrc)
+[autojump](https://link.zhihu.com/?target=https%3A//github.com/wting/autojump)   : 记忆进过的文件夹，下次可用 j + 文件夹名 直接跳进， 很方便.软件安装完后输入下面命令生效终端 (echo ""# autojump\nsource /usr/share/autojump/autojump.bash" >> ~/.bashrc)
 
 [rebash](https://link.zhihu.com/?target=https%3A//github.com/jandob/rebash) : 脚本库/框架。特点：进口，例外，文件测试...
 
@@ -1300,15 +1300,15 @@ C/C++集成开发环境列表
 
 [history](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Sed) :非常简单，尤其是在你依赖于复制使用过的命令时，这个命令特别有用。
 
-sort, uniq：排序去重。
+[sort, uniq]() ：排序去重。
 
-awk, grep, sed：文本处理神器。
+[awk, grep, sed]() ：文本处理神器。
 
 [jq](https://shenhonglei.blog.csdn.net/article/details/108045923?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_antiscanv2&utm_relevant_index=5)，命令行的json查询和格式化工具，适合查看rest接口的输出
 
-strace，打印出进程调用了哪些系统调用。
+[strace]() :打印出进程调用了哪些系统调用。
 
-objdump，打印目标码和反汇编结果
+[objdump]() :打印目标码和反汇编结果
 
 [transfer.sh](https://link.zhihu.com/?target=https%3A//github.com/dutchcoders/transfer.sh) :可通过简单的命令行来快速完成文件共享操作
 
@@ -1318,15 +1318,15 @@ objdump，打印目标码和反汇编结果
 
 [PM2](https://link.zhihu.com/?target=http%3A//pm2.keymetrics.io/) :用以在后台运行和管理进程
 
- [SpaceVim](https://link.zhihu.com/?target=https%3A//github.com/SpaceVim/SpaceVim)：这是一个 vim 插件，使你的 Vim 变成带代码自动补全等功能的更加强大的代码编辑器！
+[SpaceVim](https://link.zhihu.com/?target=https%3A//github.com/SpaceVim/SpaceVim)：这是一个 vim 插件，使你的 Vim 变成带代码自动补全等功能的更加强大的代码编辑器！
 
-axel：多线程断点下载工具，非常好用。例如下图中这样，指定了 8 个线程同时下载。
+[axel]()：多线程断点下载工具，非常好用。例如下图中这样，指定了 8 个线程同时下载。
 
-nmon：它能够帮你进行电脑的性能监控，包括 CPU，内存，磁盘 IO，网络 IO，并且界面很炫酷，是不是很像黑客，快去试试吧 [nmon for Linux | Main](https://link.zhihu.com/?target=http%3A//nmon.sourceforge.net/pmwiki.php)
+[nmon]()：它能够帮你进行电脑的性能监控，包括 CPU，内存，磁盘 IO，网络 IO，并且界面很炫酷，是不是很像黑客，快去试试吧 [nmon for Linux | Main](https://link.zhihu.com/?target=http%3A//nmon.sourceforge.net/pmwiki.php)
 
 [Alex](https://link.zhihu.com/?target=https%3A//github.com/get-alex/alex)：它是一个简单但很有用的小工具。适用于明文文本或者格式为 Markdown 或 HTML 的文档。Alex 会对“性别偏好、极端主义、种族相关、宗教，或者文章中其他不平等的措辞”产生警告。如果你想要试试看 Alex，这里有一个在线 [demo](https://link.zhihu.com/?target=https%3A//alexjs.com/%23demo)；
 
- [GNU Aspell](https://link.zhihu.com/?target=http%3A//aspell.net/)：它能够交互式地检测文本文档，能高亮显示拼写错误，还能在拼写错误的上方提供正确的拼写建议。Aspell 在进行拼写检查的时候，同样能够忽略许多语法标记；
+[GNU Aspell](https://link.zhihu.com/?target=http%3A//aspell.net/)：它能够交互式地检测文本文档，能高亮显示拼写错误，还能在拼写错误的上方提供正确的拼写建议。Aspell 在进行拼写检查的时候，同样能够忽略许多语法标记；
 
 [Proselint](https://link.zhihu.com/?target=http%3A//proselint.com/)：它是一款全能的实时检查工具。它会找出行话、大话、不正确日期和时间格式、滥用的术语[等等](https://link.zhihu.com/?target=http%3A//proselint.com/checks/)。它也很容易运行并忽略文本中的标记；
 
@@ -1362,12 +1362,14 @@ nmon：它能够帮你进行电脑的性能监控，包括 CPU，内存，磁盘
 
 [bro](https://link.zhihu.com/?target=http%3A//bropages.org/)：以用例为主的帮助系统,类似于man,但是对新手友好.
 
-http.server : python中的一个本地小型 http 服务器,可以用于局域网传输文件.但没有上传功能.
+[http.server]() : python中的一个本地小型 http 服务器,可以用于局域网传输文件.但没有上传功能.
 
 [SimpleHTTPServerWithUpload.py](https://github.com/dianjixz/my_doc/blob/main/lib_example/python/SimpleHTTPServerWithUpload.py) : python中的一个本地小型 http 服务器,可以用于局域网传输文件.有上传功能.有 python2 和 python3 两个版本.
 
  
+### 42、 收藏网站
 
+[iconfont](https://www.iconfont.cn) : 一个图标的素材网站.
 
 
 参考连接:
