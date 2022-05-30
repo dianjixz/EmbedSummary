@@ -1371,6 +1371,11 @@ C/C++集成开发环境列表
 
 [iconfont](https://www.iconfont.cn) : 一个图标的素材网站.
 
+[ld链接脚本说明](https://www.cnblogs.com/wahahahehehe/p/15149960.html) : RISC-V MCU ld链接脚本说明 -- 以CH32V103为例.
+
+[frp内网穿透](https://www.zhuguodong.com/?id=560) : frp内网穿透的四种模式：tcp、udp、stcp、xtcp
+
+[nps]() : 一个内网穿透工具.
 
 参考连接:
 	[干货| C++ 资源、框架大全，推荐收藏](https://zhuanlan.zhihu.com/p/30660979)  
