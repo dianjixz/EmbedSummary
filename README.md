@@ -1377,6 +1377,8 @@ C/C++集成开发环境列表
 
 [nps]() : 一个内网穿透工具.
 
+[WaveDrom](https://wavedrom.com/) : 画时序图的一个软件.
+
 参考连接:
 	[干货| C++ 资源、框架大全，推荐收藏](https://zhuanlan.zhihu.com/p/30660979)  
 	[公众号嵌入式大杂烩资源仓库](https://github.com/zhengnianli/EmbedSummary)
