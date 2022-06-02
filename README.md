@@ -230,7 +230,7 @@
 
 ### 4、物联网、智能家居
 
-[ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
+[ HomeAssistant ](https://github.com/home-assistant/core)：一款基于 Python 的智能家居开源系统。
 
 [ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
 
