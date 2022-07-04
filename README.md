@@ -186,6 +186,7 @@
 
 [ws2812](https://github.com/hepingood/ws2812b): ws2812驱动库.
 
+[cocoyaxi](https://github.com/idealvin/cocoyaxi) :co 是一个优雅、高效的 C++ 基础库，支持 Linux, Windows 与 Mac 平台，它包含 golang 风格的协程库、基于协程的网络库、日志库、命令行与配置文件解析库、单元测试框架、JSON 库等基本组件。
 
 更多资源敬请期待......
 
