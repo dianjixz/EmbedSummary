@@ -36,6 +36,8 @@
 
 [Zephyr](https://github.com/zephyrproject-rtos/zephyr):Zephyr 内核是一个内存占用极低的内核，它主要设计用于资源受限系统：从简单的嵌入式环境传感器、LED 可穿戴设备，到复杂的智能手表、IoT 无线网关。
 
+[NuttX](https://nuttx.apache.org/):NuttX 是一个实时操作系统（RTOS），强调标准兼容和小型封装，具有从8位到32位微控制器环境的高度可扩展性。NuttX 主要遵循  Posix 和 ANSI 标准，对于在这些标准下不支持的功能，或者不适用于深度嵌入环境的功能（如 fork()），采用来自 Unix 和常见 RTOS （如 VxWorks）的额外的标准 API。 
+
 更多资源敬请期待......
 
 ### 2、实用库/框架
@@ -1347,7 +1349,7 @@ C/C++集成开发环境列表
 
 [pm](https://link.zhihu.com/?target=https%3A//github.com/Angelmmiguel/pm)：在 bash / zsh 中迅速切换项目目录
 
-[ncdu](https://link.zhihu.com/?target=https%3A//dev.yorhel.nl/ncdu)：可视化的空间分析程序,你发现有人把 /home 空间撑爆了，影响了大家的工作，你愤怒了一层层的 du，一层层的 cd，整个过程就像刨垃圾堆一样的恶心，后来发现了 ncdu 这个基于 ncurses 的空间分析程序：
+[ncdu](https://link.zhihu.com/?target=https%3A//dev.yorhel.nl/ncdu)：可视化的空间分析程序,你发现有人把 /home 空间撑爆了，影响了大家的工作，你愤怒了一层层的 du，一层层的 cd，整个过程就像刨垃圾堆一样的恶心，后来发现了 ncdu 这个基于 ncurses 的空间分析程序：磁盘
 
 [glances](https://link.zhihu.com/?target=https%3A//nicolargo.github.io/glances/)：更强大的 htop / top 代替者 htop 代替 top，glances 代替 htop：
 
