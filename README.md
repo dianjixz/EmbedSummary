@@ -1369,6 +1369,7 @@ C/C++集成开发环境列表
 
 [SimpleHTTPServerWithUpload.py](https://github.com/dianjixz/my_doc/blob/main/lib_example/python/SimpleHTTPServerWithUpload.py) : python中的一个本地小型 http 服务器,可以用于局域网传输文件.有上传功能.有 python2 和 python3 两个版本.
 
+[crontab-ui](https://github.com/alseambusher/crontab-ui): 一个 crontab web GUI 软件包。
  
 ### 42、 收藏网站
 
