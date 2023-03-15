@@ -1289,7 +1289,7 @@ C/C++集成开发环境列表
 
 [dtrx](https://github.com/dtrx-py/dtrx/) 有了这个工具你基本再也不用记住如何在linux上面解压各种后缀的文件了，什么tar.gz,tgz,xz,bz2,zip.rar等通通搞定，这是一个python工具.
 
-[autojump](https://link.zhihu.com/?target=https%3A//github.com/wting/autojump)   : 记忆进过的文件夹，下次可用 j + 文件夹名 直接跳进， 很方便.软件安装完后输入下面命令生效终端 (echo ""# autojump\nsource /usr/share/autojump/autojump.bash" >> ~/.bashrc)
+[autojump](https://link.zhihu.com/?target=https%3A//github.com/wting/autojump)   : 记忆进过的文件夹，下次可用 j + 文件夹名 直接跳进， 很方便.软件安装完后输入下面命令生效终端 (apt-get install autojump; source /usr/share/autojump/autojump.sh on startup; echo '. /usr/share/autojump/autojump.sh'>>~/.bashrc)
 
 [rebash](https://link.zhihu.com/?target=https%3A//github.com/jandob/rebash) : 脚本库/框架。特点：进口，例外，文件测试...
 
