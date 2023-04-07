@@ -1323,7 +1323,7 @@ C/C++集成开发环境列表
 
 [SpaceVim](https://link.zhihu.com/?target=https%3A//github.com/SpaceVim/SpaceVim)：这是一个 vim 插件，使你的 Vim 变成带代码自动补全等功能的更加强大的代码编辑器！
 
-[axel]()：多线程断点下载工具，非常好用。例如下图中这样，指定了 8 个线程同时下载。
+[axel]()：多线程断点下载工具，非常好用。例如下图中这样，指定了 8 个线程同时下载。 axel -n 8 http:/xxxx
 
 [nmon]()：它能够帮你进行电脑的性能监控，包括 CPU，内存，磁盘 IO，网络 IO，并且界面很炫酷，是不是很像黑客，快去试试吧 [nmon for Linux | Main](https://link.zhihu.com/?target=http%3A//nmon.sourceforge.net/pmwiki.php)
 
