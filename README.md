@@ -460,6 +460,16 @@
 [Tslib移植与分析](https://blog.csdn.net/water_cow/article/details/7215308?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control):Tslib移植与分析。
 
 
+### 10、适用于MCU的BootLoader
+
+[MCUboot](https://github.com/mcu-tools/mcuboot.git) : 物联网设备首选,IoT设备、需要安全OTA更新的场景,符合PSA Certified Level 1安全标准,支持A/B双区无缝切换,丰富的加密套件（SHA-256、RSA-2048、ECDSA-P256）,与Zephyr、FreeRTOS等RTOS深度集成.
+
+[OpenBLT](https://sourceforge.net/projects/openblt/) : 汽车电子领域经典方案,超紧凑设计（最小4KB Flash占用）,支持XCP协议用于标定,强大的通信协议栈（CAN、USB、以太网）,内置看门狗管理.
+
+[STM32 CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html) : 原厂解决方案,官方维护，与CubeMX无缝集成,支持多种接口（SWD、UART、USB DFU、I2C等）,内置加解密引擎（AES-256、RSA）,图形化配置工具.
+
+[Mbed Bootloader](https://os.mbed.com/docs/mbed-os/v6.16/introduction/index.html) : 快速原型开发利器,与Mbed Cloud紧密集成,支持差分更新（Delta Firmware）,内置故障收集机制, 云端管理界面.
+
 
 
 
